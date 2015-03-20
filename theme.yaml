@@ -1,0 +1,10 @@
+name: BRUSHED
+description: Free One Page Responsive HTML Template based on Twitter Bootstrap Framework. It is optimized for Retina Displays ( iPhone, iPad, iPod Touch and MacBook Pro Retina).
+author: SLIDER.WEB studio
+homepage: 'http://sliderweb.ru'
+form:
+    fields:
+        site_name:
+            label: Site name
+            comment: The website name as it should appear on the front-end
+            default: BRUSHED
