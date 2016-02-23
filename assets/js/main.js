@@ -378,7 +378,7 @@ $(document).ready(function(){
 						Placeholders.init({
 						live: true,
 						hideOnFocus: false,
-						className: "yourClass",
+						className: "slide-content",
 						textColor: "#999"
 						});    
 				}
